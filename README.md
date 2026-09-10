@@ -1,16 +1,36 @@
-## Hi there 👋
+Hi there 👋, I'm Precious
 
-<!--
-**preciousirie/preciousirie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ Aspiring Cybersecurity Professional | Networking & Linux | Hands-on Security Labs
 
-Here are some ideas to get you started:
+I’m building practical cybersecurity skills through hands-on labs, networking, Linux, and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 What I'm currently focused on
+🌱 Building foundational cybersecurity skills
+🌐 Learning networking fundamentals and security
+🐧 Working with Linux and command-line tools
+🧪 Practicing through hands-on security labs and challenges
+🔎 Developing skills in security analysis, troubleshooting, and defensive security
+📚 Documenting what I learn and building practical projects
+
+🛠️ Skills & Technologies
+
+🐧 Linux
+🌐 Networking & TCP/IP
+🔐 Cybersecurity Fundamentals
+💻 Command Line
+🧪 Security Labs
+🐙 Git & GitHub
+
+📂 What you'll find here
+This profile is where I document my cybersecurity journey, including:
+
+🔬 Hands-on security labs
+📝 Learning notes and write-ups
+🛠️ Cybersecurity projects
+🌐 Networking exercises
+🐧 Linux practice
+
+🎯 My Goal
+To develop strong, practical cybersecurity skills and become a security professional capable of understanding, identifying, and helping defend against real-world security threats.
+
+Always learning. Always testing. Always improving. 🛡️
